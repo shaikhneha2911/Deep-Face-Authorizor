@@ -1,6 +1,6 @@
 # Face Authentication System
 
-This is a modern Face Authentication System which includes state-of-art algorithms to detect face and generate face embedding. This system contains endpoints which can be integrated to any device depending on the requirements. 
+This is a present-day face authentication system with cutting-edge algorithms for face detection and face embedding. Depending on the needs, endpoints in this system can be integrated into any kind of device. 
 
 ## Project Architecture
 <img width="773" alt="image" src="https://user-images.githubusercontent.com/57321948/210045920-cc545886-1053-44f2-a491-e2ce8a3d18ce.png">
@@ -9,7 +9,7 @@ This is a modern Face Authentication System which includes state-of-art algorith
 
 
 ## Run the Application
-Before we run the project, make sure that you are having MongoDB in your local system, with Compass since we are using MongoDB for data storage. You also need Azure account to access the service like ACS and App services.
+Before you run the project, make sure that you have MongoDB in your local system, with Compass since we are using MongoDB for data storage. You also need an Azure account to access services like ACS and App services.
 
 ### Step 1-: Clone the Repository
 ```
@@ -66,8 +66,8 @@ docker run -d -p 8000:8000 <IMAGEID OR IMAGENAME>
 ## Deployment to Azure
 
 ### Services used
-- Azure container Registry (ACR) for Docker image of project is stored
+- Azure container Registry (ACR) for the Docker image of the project is stored
 - Azure App Services for deploying the application
 - GitHub Actions for CI/CD
 
-#### Please refer this [documentation](https://github.com/Rishav-hub/face_auth_dev/blob/main/docs/setup.md) for deployment to Azure.
+
